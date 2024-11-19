@@ -30,7 +30,7 @@ Hypothesis testing, such as t-tests, is employed to investigate differences in p
 Advanced visualizations, including bar charts, box plots, and heatmaps, are utilized to highlight trends and patterns in the data.
 Interactive elements, such as Streamlit dashboards, are implemented to enable dynamic exploration of findings.
 
-## 5.Insights and Recommendations:
+5.Insights and Recommendations:
 Key findings are summarized to identify factors that significantly influence academic performance.
 Actionable recommendations are derived based on the observed data patterns to guide decision-making in education management.
 
