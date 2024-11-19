@@ -1,5 +1,5 @@
 # StudentPerformance
-Introduction
+# Introduction
 Understanding student performance is a critical aspect of education management and improvement. This analysis aims to explore patterns in academic performance and identify factors that influence student outcomes. Using a dataset containing demographic, academic, and contextual variables, this project investigates how aspects like age, gender, family size, parental education, and extracurricular involvement correlate with students' academic achievements.
 
 The primary objectives of this analysis are:
@@ -8,7 +8,8 @@ The primary objectives of this analysis are:
 3.To evaluate the potential impact of extracurricular activities on students' performance.
 4.To provide actionable insights for educators and policymakers.
 
-Methodology
+# Methodology
+
 This analysis is structured into several key stages:
 
 Data Collection and Preprocessing:
